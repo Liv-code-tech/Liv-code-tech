@@ -10,17 +10,16 @@
   
 <br>
   <br>
-  <pre>
- 👩‍🦱
+
+  👩‍🦱
   I am looking for a role which allows me to develop the skills I have learned and work collaboratively to achieve great results.
   
-
   💻
   Software Engineering, UX Research/Design and Data Analysis are my primary fields of interest. I have worked primarily with Python (including Kivy and Django) and have programmed a fair amount using HTML, CSS and JavaScript.
 
   🎯
   My aim is to simplify users' lives, by designing and creating user-friendly programmes which remove informational clutter and feel good to use.
-  </pre>
+
   <br>
 <br>
 
