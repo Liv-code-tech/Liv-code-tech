@@ -10,8 +10,9 @@
   
 <br>
   <br>
-  I am looking for a role which allows me to develop the skills I have learned and work collaboratively to achieve great results. 💪 
-
+ 👩‍🦱
+  I am looking for a role which allows me to develop the skills I have learned and work collaboratively to achieve great results.  
+<br/>
   💻
   Software Engineering, UX Research/Design and Data Analysis are my primary fields of interest. I have worked primarily with Python (including Kivy and Django) and have programmed a fair amount using HTML, CSS and JavaScript.
 
