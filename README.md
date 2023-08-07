@@ -11,18 +11,14 @@
 <br>
   <br>
   I am looking for a role which allows me to develop the skills I have learned and work collaboratively to achieve great results. 
+
+  
   <br>
   <br>
 
 </div>
 
-<picture>
 
-
-![Fade Effect](https://github.com/Liv-code-tech/Liv-code-tech/assets/133100780/ffdcee74-e239-4fb2-8763-66bdf1b8535d)
-
-
-</picture>
 
 ### [Backend Development](https://github.com/Liv-code-tech/finalCapstone) &emsp;UX Design &emsp;Game Apps
 
